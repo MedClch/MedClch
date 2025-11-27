@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chlouchi Mohammad</h1>
-<h3 align="center">Software Engineering</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 📫 How to reach me **chlouchi.mohammad1@gmail.com**
+- 📫 How to reach me **chlouchi.mohammad1@gmail.com** or here [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chlouchi%20Mohammad-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chlouchimohammad)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -115,9 +115,9 @@
   </a>
 
   <!-- AWS App Runner (updated) -->
-<a href="https://aws.amazon.com/apprunner/" target="_blank" rel="noreferrer">
-  <img src="https://www.awsicon.com/icon/app-runner.svg" alt="AWS App Runner" width="40" height="40"/>
-</a>
+  <a href="https://aws.amazon.com/apprunner/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSAppRunner.svg" alt="AWS App Runner" width="40" height="40"/>
+  </a>
 
   <!-- DynamoDB (updated) -->
   <a href="https://aws.amazon.com/dynamodb/" target="_blank">
