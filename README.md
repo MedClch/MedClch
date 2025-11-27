@@ -115,9 +115,9 @@
   </a>
 
   <!-- AWS App Runner (updated) -->
-  <a href="https://aws.amazon.com/apprunner/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/aws-app-runner.svg" width="40"/>
-  </a>
+<a href="https://aws.amazon.com/apprunner/" target="_blank" rel="noreferrer">
+  <img src="https://www.awsicon.com/icon/app-runner.svg" alt="AWS App Runner" width="40" height="40"/>
+</a>
 
   <!-- DynamoDB (updated) -->
   <a href="https://aws.amazon.com/dynamodb/" target="_blank">
